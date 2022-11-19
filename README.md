@@ -1,5 +1,5 @@
 # HotelApp
-Aplicación de escritorio desarrollada en Java
+Aplicación de escritorio Desarrollada en Java
 
 Fecha real del Proyecto: Mayo 2019
 Este proyecto fue realizado mientras cursaba en primero de DAM
